@@ -65,7 +65,7 @@ param:
         # email adresi (ör. roktas@bil.omu.edu.tr)
         email: mesut.cittir@bil.omu.edu.tr
         # ünvan (ör. Bilgisayar Mühendisliği Öğrencisi)
-        title: <a href="http://ondokuz.biz/">19</a> üyesi
+        title: Bilgisayar Mühendisi
         # GnuPG kısa parmak izi (ör. DEADBEEF)
         gpg: ~
         # twitter adresi (ör. http://19.status.net/roktas)
@@ -103,7 +103,7 @@ param:
         # google site içi arama kutusu
         google: true
         # google analytics takip numarası (ör. UA-1234567-8
-        googleanalyticsid: ~
+        googleanalyticsid: UA-24724378-1
         # sayfa yorumları için disqus site kaydı (ör. roktas)
         disqus: mctr
         # GitHub şerit metni (ör. GitHub'dayım)
