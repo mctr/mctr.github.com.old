@@ -1,1 +1,1 @@
-Kodlar bu dizinde.
+kodlar bu dizinde.
