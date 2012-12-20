@@ -27,8 +27,9 @@ body{
 	}
 
 #menu img {
+	margin:0px 10px 0px 5px;
 	float:left;
-	border: 5px solid black;
+	border: 5px solid white;
 	}
 
 #konular {
@@ -61,7 +62,7 @@ body{
 	}
 	
 #sol {
-	margin:55px 0px 0px 0px;
+	margin:200px 0px 0px 0px;
 	color:blue;
 	border:5px solid white;
 	font-size:23px;
