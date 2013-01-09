@@ -27,9 +27,11 @@ body{
 	}
 
 #menu img {
-	margin:0px 10px 0px 5px;
+	margin:5px 10px 0px 5px;
 	float:left;
-	border: 5px solid white;
+/*
+	border:5px solid white;
+*/
 	}
 
 #konular {
@@ -48,7 +50,7 @@ body{
 	margin:10px 25px 25px 25px;	
 	background-color:white;
 	font-size:20px;
-	color:blue;
+	color:black;
 	}
 
 #footer{
