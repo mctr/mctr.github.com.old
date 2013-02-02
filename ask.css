@@ -1,0 +1,38 @@
+body{
+	background:url(images/romantik.jpg);
+	background-attachment: fixed;
+}
+#orta {
+	margin:15px 270px 15px 270px;
+	border:8px solid silver;
+	box-shadow:5px 5px 20px black;
+		-webkit-box-shadow:5px 5px 20px black;
+		-moz-box-shadow:5px 5px 20px black;
+	}
+
+#en_orta {
+	color:yellow;
+	text-align:center;
+	margin:15px 135px 5px 135px;
+	box-shadow:5px 5px 20px black;
+		-webkit-box-shadow:5px 5px 20px black;
+		-moz-box-shadow:5px 5px 20px black;
+}
+
+#ustmenu {
+	text-align:center;
+	margin: 10px 270px 0px 270px;
+	box-shadow:5px 5px 20px black;
+		-webkit-box-shadow:5px 5px 20px black;
+		-moz-box-shadow:5px 5px 20px black;
+}
+
+#son {
+	margin:10px 0px 30px 270px;
+	float:right;
+	font-size:20px;
+	color:black;
+	box-shadow:5px 5px 20px black;
+		-webkit-box-shadow:5px 5px 20px black;
+		-moz-box-shadow:5px 5px 20px black;
+}
