@@ -17,6 +17,40 @@ body{
 	background-image:url()
 }
 
+#menu_yatay {
+	font-family: Arial, sans-serif;
+	font-weight: bold;
+	text-transform: uppercase;
+	margin: 20px 0;
+	padding: 0;
+	list-style-type: none;
+	background-color: #eee;
+	font-size: 13px;
+	height: 40px;
+	border-top: 2px solid #eee;
+	border-bottom: 2px solid #ccc;
+}
+#menu_yatay li {
+	float: left;
+	margin: 0;                
+}
+#menu_yatay li a {
+	text-decoration: none;
+	display: block;
+	padding: 0 17px;
+	line-height: 40px;
+	color: #666;
+}
+#menu_yatay li a:hover, #menu li.active a {
+	background-color: #f5f5f5;
+	border-bottom: 2px solid #DDD;
+	color: #999;
+}
+
+#menu_wrapper ul {margin-left: 12px;}
+#menu_wrapper {padding: 0 16px 0 0; background: url(/images/face1.png) no-repeat right;padding: 0px;margin:0 274px 0 265px;}
+#menu_wrapper div {float: left; height: 44px; width: 12px; background: url(/images/face1.png) no-repeat left;}
+
 #ust_menu {
 	margin: 10px 270px 0px 270px;
 	box-shadow:5px 5px 20px black;
@@ -25,12 +59,16 @@ body{
 	}
 
 #menu {
-	margin:15px 270px 10px 270px;
+	margin:0 270px 10px 270px;
 	left:25pt;
+/*
 	border:8px solid gray;
+*/
+/*
 	box-shadow:5px 5px 20px black;
 		-webkit-box-shadow:5px 5px 20px black;
 		-moz-box-shadow:5px 5px 20px black;
+*/
 	}
 #menu h1 {
 	color:blue;
